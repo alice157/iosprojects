@@ -1,0 +1,9 @@
+Package: com.samburns.iqr
+Name: iQR
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Better quick reply for iOS8
+Maintainer: Sam Burns
+Author: Sam Burns
+Section: Tweaks
