@@ -1,0 +1,9 @@
+Package: com.samburns.iosprotractor
+Name: iOS-Protractor
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Gesture Recognization for iOS 8.1
+Maintainer: Sam Burns
+Author: Sam Burns
+Section: Tweaks
