@@ -1,4 +1,5 @@
 #include <vector>
+#include <stdio.h>
 #include <cmath>
 #include "point.h"
 #ifndef RECOGNIZER_H

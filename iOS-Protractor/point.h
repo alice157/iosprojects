@@ -3,6 +3,7 @@
 class Point {
 	public:
 		int x, y;
-		Point() {}
+		Point();
+		Point(int a, int b);
 };
 #endif

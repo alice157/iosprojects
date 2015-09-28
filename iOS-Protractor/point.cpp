@@ -1,6 +1,10 @@
 #include "point.h"
 using namespace std;
-Point::Point(int x, int y) {
-	self.x = x;
-	self.y = y;
-};
+Point::Point(int a, int b) {
+	x = a;
+	y = b;
+}
+Point::Point() {
+	x = 0;
+	y = 0;
+}
