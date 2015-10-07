@@ -1,7 +1,7 @@
 include theos/makefiles/common.mk
 
-TWEAK_NAME = iOS-Protractor
-iOS-Protractor_FILES = Tweak.xm
+TWEAK_NAME = Radian
+Radian_FILES= Tweak.xm
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
