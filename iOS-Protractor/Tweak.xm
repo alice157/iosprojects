@@ -8,7 +8,7 @@
 
 @implementation UIWindowInputCatcher
 -(BOOL)pointInside:(CGPoint)point withEvent:(UIEvent *)event {
-	NSLog(point);
+	NSLog(@"Touch at %@, %@", point.x, point.y);
 	return NO;
 }
 @end
