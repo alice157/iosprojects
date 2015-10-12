@@ -1,0 +1,12 @@
+Package: com.sburns.libprotractor
+Name: libprotractor
+Description: Implementation of the Protractor gesture recognition algorithm
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libprotractorData
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Sam Burns <samburns157@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Development
+Tag: role::developer
+dev: samburns157
